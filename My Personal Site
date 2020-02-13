@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Monikka's Personal Site</title>
+
+</head>
+
+<body>
+  <h1>Monikka Edgeston</h1>
+  <p><em>IT Support Associate at <strong>Mintel</strong>/ Software Developer</em></p>
+  <p>I am a IT Support Associate and an aspiring Software Developer. I love all things code and learning.</p>
+  <hr />
+  <h3>Education</h3>
+  <p>Moraine Valley Community College- Palos Hills, IL</p>
+  <p>Associates of Science- Graduated May 2016</p>
+  <p>• GPA achieved: 3.3/4</p>
+  <p>• Related courses: IT Essentials, Calculus and Analytical Geometry I,II & III, Differential Equations, Intro to C++, Electronics I and Electronics II</p>
+
+</body>
+
+</html>
